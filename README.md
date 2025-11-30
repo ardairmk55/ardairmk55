@@ -188,7 +188,7 @@ const arda = {
         <img src="https://img.shields.io/badge/Education-Platform-orange?style=flat-square" />
       </p>
       <p align="center">
-        <a href="https://github.com/ardairmk55/Gelisim_kapsul">
+        <a href="[https://github.com/ardairmk55/Gelisim_kapsul](https://github.com/ardairmk55/GelisimKapsul)">
           <img src="https://img.shields.io/badge/Kodu_İncele-Git-blue?style=for-the-badge&logo=github" />
         </a>
       </p>
