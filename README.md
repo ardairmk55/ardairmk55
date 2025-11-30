@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 
-  <h1>👋 Merhaba, Ben Arda Irmak!</h1>
+  <h1>👋 Merhaba, Ben Arda!</h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=33FFCC&center=true&vCenter=true&random=false&width=450&lines=Backend+Developer;Computer+Programming+Student;Python+Enthusiast;Building+Web+Apps+%F0%9F%9A%80" alt="Typing SVG" />
