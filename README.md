@@ -42,7 +42,7 @@ const arda = {
     technologies: {
         backend: ["Django", "Flask", ".NET Core"],
         frontend: ["HTML5", "CSS3","BOOTSTRAP"],
-        database: ["SQLite", "PostgreSQL"]
+        database: ["SQLite"]
     },
     currentFocus: "Building Real-time Web Apps & Learning Game Dev",
     motivation: "Turning caffeine into code since 2023 ☕"
