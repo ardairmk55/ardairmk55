@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Merhaba,%20Ben%20Arda!%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&desc=Junior%20Software%20Developer%20%7C%20Backend%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Merhaba,%20Ben%20Arda!%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&desc=Junior%20Software%20Developer%20%7C%20Backend%20Architecture&descAlignY=55&descSize=20" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&random=false&width=500&lines=Backend+Developer;Computer+Programming+Student;Python+%26+Django+Enthusiast;Building+Scalable+Web+Apps+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&random=false&width=550&lines=Backend+Developer;Computer+Programming+Student;Python+%26+Django+Specialist;Building+Enterprise-Grade+Apps+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -28,27 +28,34 @@
 
 ---
 
-## 👨‍💻 Hakkımda
+## 👨‍💻 Profesyonel Profil
 
-Gümüşhane Üniversitesi Bilgisayar Programcılığı öğrencisiyim. Profesyonel iş hayatıma **DenizBank** kurumsal BT operasyonları stajıyla adım attım. Şu anda **Python (Django)**, **C#** ve **Docker** ekosistemlerine odaklanarak ölçeklenebilir backend çözümleri ve dinamik web platformları geliştiriyorum. 
+Gümüşhane Üniversitesi Bilgisayar Programcılığı öğrencisi ve yenilikçi yazılım çözümleri üreten bir **Backend Developer** adayıyım. Profesyonel iş disiplinimi **DenizBank** bünyesindeki kurumsal BT operasyonları tecrübemle inşa ettim. Güvenli, ölçeklenebilir ve sürdürülebilir mimariler tasarlamaya odaklanıyor; **Python (Django)**, **C#** ve **Docker** ekosistemleriyle modern web platformları geliştiriyorum.
 
 ```javascript
 const ardaIrmak = {
     education: "Gümüşhane University 🎓",
-    department: "Computer Programming (2nd Year)",
-    coreSkills: ["Backend Development", "Database Architecture", "RESTful APIs"],
+    department: "Computer Programming",
+    coreCompetencies: [
+        "Backend Architecture", 
+        "Relational Database Design", 
+        "RESTful API Development", 
+        "Enterprise CRM Systems"
+    ],
     techStack: {
         backend: ["Python", "Django", "Flask", "C#", ".NET Core"],
         database: ["PostgreSQL", "MySQL", "SQLite"],
         devOps: ["Docker", "Git", "GitHub Actions"]
     },
+    currentFocus: "Architecting Scalable Microservices & Data-Driven Apps",
+    professionalPhilosophy: "Writing clean, maintainable, and efficient code to solve real-world problems."
+};
 ```
-
-## 🛠️ Teknoloji Arsenalim
+## 🛠️ Teknoloji & Geliştirme Ortamı
 
 <div align="center">
   
-  ### 💻 Backend & Programlama Dilleri
+  ### 💻 Backend & Core Diller
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -58,11 +65,11 @@ const ardaIrmak = {
   ### 💾 Veritabanı & DevOps
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
-  ### 🎨 Frontend & UI
+  ### 🎨 Frontend & UI/UX
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -72,15 +79,16 @@ const ardaIrmak = {
 
 ---
 
-## 🚀 Öne Çıkan Projelerim
+## 🚀 Öne Çıkan Mimari Projeler
 
 <table border="0" width="100%" align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚙️ TeknoFix / Tamirat Randevu Sistemi</h3>
-      <p align="center">Teknik servis operasyonlarını uçtan uca dijitalleştiren kurumsal CRM altyapısı.</p>
+      <h3 align="center">⚙️ TeknoFix / CRM Sistemi</h3>
+      <p align="center">Teknik servis operasyonlarını uçtan uca dijitalleştiren kurumsal altyapı.</p>
       <p align="center">
-        <b>Özellikler:</b> Arıza kaydı, rol bazlı durum takibi, servis yönetimi.<br><br>
+        <b>Rol:</b> Backend Geliştirici<br>
+        <b>Odak:</b> Güvenlik, Veri Modelleme, Rol Bazlı Yetkilendirme.<br><br>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
@@ -93,9 +101,10 @@ const ardaIrmak = {
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🚀 Gelişim Kapsülü</h3>
-      <p align="center">Kişisel gelişim, eğitim takibi ve dinamik içerik yönetimine sahip web platformu.</p>
+      <p align="center">Eğitim takibi ve dinamik içerik yönetimine sahip ölçeklenebilir platform.</p>
       <p align="center">
-        <b>Özellikler:</b> İlerleme takibi, MVC mimarisi, güvenli kullanıcı yetkilendirmesi.<br><br>
+        <b>Rol:</b> Full-Stack Geliştirici<br>
+        <b>Odak:</b> MVC Mimarisi, UX Standartları, ORM Kullanımı.<br><br>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
         <img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -112,7 +121,8 @@ const ardaIrmak = {
       <h3 align="center">💬 MediRandevu (Real-Time)</h3>
       <p align="center">Hasta & doktorlar için Socket.IO tabanlı gerçek zamanlı iletişim ve randevu sistemi.</p>
       <p align="center">
-        <b>Özellikler:</b> Canlı randevu kurgusu, anlık mesajlaşma, veritabanı entegrasyonu.<br><br>
+        <b>Rol:</b> Backend Geliştirici<br>
+        <b>Odak:</b> Asenkron İletişim, WebSocket, Veritabanı Entegrasyonu.<br><br>
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
         <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
         <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
@@ -127,7 +137,8 @@ const ardaIrmak = {
       <h3 align="center">🚌 G-M Turizm UI</h3>
       <p align="center">Otobüs rezervasyon sistemleri için modern ön yüz (Frontend) arayüz tasarımı.</p>
       <p align="center">
-        <b>Özellikler:</b> Responsive tasarım, statik koltuk düzeni görselleştirme, modern UX.<br><br>
+        <b>Rol:</b> Frontend Geliştirici<br>
+        <b>Odak:</b> Responsive Tasarım, Veri Görselleştirme, UI Prensipleri.<br><br>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -143,7 +154,7 @@ const ardaIrmak = {
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## 📊 GitHub Analizi & Aktivite
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ardairmk55&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Arda's GitHub Stats" width="48%" />
@@ -163,9 +174,8 @@ const ardaIrmak = {
 ---
 
 <div align="center">
-  <h3>Birlikte kodlayalım veya projeler geliştirelim! 🚀</h3>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300">
+  <h3>Kurumsal işbirlikleri ve staj projeleri için iletişime geçebilirsiniz.</h3>
+  <a href="mailto:ardairmak5555@gmail.com">
+    <img src="https://img.shields.io/badge/E--Posta_Gönder-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
-    currentFocus: "Building Real-time Web Apps & Mastering Microservices",
-    motivation: "Turning caffeine into scalable code since 2023 ☕"
-};
