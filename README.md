@@ -30,7 +30,7 @@
 
 ## 👨‍💻 Profesyonel Profil
 
-Gümüşhane Üniversitesi Bilgisayar Programcılığı öğrencisi ve yenilikçi yazılım çözümleri üreten bir **Backend Developer** adayıyım. Profesyonel iş disiplinimi **DenizBank** bünyesindeki kurumsal BT operasyonları tecrübemle inşa ettim. Güvenli, ölçeklenebilir ve sürdürülebilir mimariler tasarlamaya odaklanıyor; **Python (Django)**, **C#** ve **Docker** ekosistemleriyle modern web platformları geliştiriyorum.
+Gümüşhane Üniversitesi Bilgisayar Programcılığı öğrencisi ve veri odaklı, yenilikçi yazılım çözümleri üreten bir Backend Developer adayıyım. Profesyonel çalışma kültürümü ve iş disiplinimi DenizBank bünyesinde edindiğim kurumsal tecrübeyle temellendirdim. Yazılım geliştirme süreçlerinde güvenli, ölçeklenebilir ve sürdürülebilir mimariler tasarlamayı merkeze alıyor; Python (Django), C# ve Docker ekosistemlerini entegre ederek yeni nesil web platformları inşa ediyorum.
 
 ```javascript
 const ardaIrmak = {
