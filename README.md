@@ -86,7 +86,7 @@ const ardaIrmak = {
 <div align="center">
 
 ### 🔧 TeknoFix — Servis & Randevu Yönetim Sistemi
-
+ 
 <img src="https://img.shields.io/badge/Flask-Backend-black?style=for-the-badge&logo=flask"/>
 <img src="https://img.shields.io/badge/Bootstrap-UI-purple?style=for-the-badge&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
