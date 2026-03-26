@@ -89,7 +89,7 @@ const ardaIrmak = {
 
 <img src="https://img.shields.io/badge/Flask-Backend-black?style=for-the-badge&logo=flask"/>
 <img src="https://img.shields.io/badge/Bootstrap-UI-purple?style=for-the-badge&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/SQLite-Database-blue?style=for-the-badge&logo=sqlite"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
 
 Kurumsal teknik servisler için geliştirilmiş randevu, kullanıcı ve işlem yönetimi platformu.
 
