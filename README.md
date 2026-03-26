@@ -83,19 +83,58 @@ const ardaIrmak = {
 
 ## 🚀 Öne Çıkan Mimari Projeler
 
-🔗 TeknoFix
-https://github.com/ardairmk55/tamirat_randevu_sistemi
+<div align="center">
 
-🔗 Gelişim Kapsülü
-https://github.com/ardairmk55/GelisimKapsul
+### 🔧 TeknoFix — Servis & Randevu Yönetim Sistemi
 
-🔗 MediRandevu
-https://github.com/ardairmk55/INTProg_RandevuTakipSistemi
+<img src="https://img.shields.io/badge/Flask-Backend-black?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/Bootstrap-UI-purple?style=for-the-badge&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/SQLite-Database-blue?style=for-the-badge&logo=sqlite"/>
 
-🔗 G-M Turizm
-https://github.com/ardairmk55/g-m-turizm
+Kurumsal teknik servisler için geliştirilmiş randevu, kullanıcı ve işlem yönetimi platformu.
+
+🔗 https://github.com/ardairmk55/tamirat_randevu_sistemi
 
 ---
+
+### 📈 Gelişim Kapsülü — Kişisel Gelişim & Takip Platformu
+
+<img src="https://img.shields.io/badge/Python-Core-yellow?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Flask-WebApp-black?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/HTML-CSS-JS-orange?style=for-the-badge&logo=javascript"/>
+
+Hedef takibi, not sistemi ve kullanıcı yönetimi içeren kişisel gelişim uygulaması.
+
+🔗 https://github.com/ardairmk55/GelisimKapsul
+
+---
+
+### 🏥 MediRandevu — Hastane Randevu Sistemi
+
+<img src="https://img.shields.io/badge/Flask-API-black?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-ORM-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SocketIO-Realtime-green?style=for-the-badge"/>
+
+Doktor, hasta ve tekniker panelli gerçek zamanlı randevu ve mesajlaşma sistemi.
+
+🔗 https://github.com/ardairmk55/INTProg_RandevuTakipSistemi
+
+---
+
+### ✈️ G-M Turizm — Kurumsal Web Platformu
+
+<img src="https://img.shields.io/badge/HTML5-Web-orange?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-Design-blue?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-Dynamic-yellow?style=for-the-badge&logo=javascript"/>
+
+Modern tasarım, responsive yapı ve kurumsal içerik yönetimi odaklı web sitesi.
+
+🔗 https://github.com/ardairmk55/g-m-turizm
+
+</div>
+
+---
+
 
 ## 📊 GitHub Analizi
 
