@@ -1,34 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Merhaba,%20Ben%20Arda!%20👋&fontSize=50&fontAlignY=35&desc=Junior%20Software%20Developer%20|%20Backend%20Architecture&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Merhaba,%20Ben%20Arda!%20👋&fontSize=50&fontAlignY=35&desc=Junior%20Software%20Developer%20|%20Backend%20Architecture&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFC6&center=true&vCenter=true&width=600&lines=Backend+Developer;Computer+Programming+Student;Python+%26+Django+Developer;Building+Enterprise+Apps+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=550&lines=Backend+Developer;Computer+Programming+Student;Python+%26+Django+Specialist;Building+Enterprise-Grade+Apps+🚀" />
 </a>
 
 <br/>
 
+<p align="center">
 <a href="https://github.com/ardairmk55">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/arda-irmak-919879317">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:ardairmak5555@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+</p>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ardairmk55&label=Profile%20Views&color=0e75b6&style=flat"/>
+<p>
+<img src="https://komarev.com/ghpvc/?username=ardairmk55&label=Profile%20Views&color=0e75b6&style=flat-square"/>
+</p>
 
 </div>
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 👨‍💻 Profesyonel Profil
 
@@ -39,9 +39,9 @@ const ardaIrmak = {
     education: "Gümüşhane University 🎓",
     department: "Computer Programming",
     coreCompetencies: [
-        "Backend Architecture",
-        "Relational Database Design",
-        "RESTful API Development",
+        "Backend Architecture", 
+        "Relational Database Design", 
+        "RESTful API Development", 
         "Enterprise CRM Systems"
     ],
     techStack: {
@@ -49,106 +49,86 @@ const ardaIrmak = {
         database: ["PostgreSQL", "MySQL", "SQLite"],
         devOps: ["Docker", "Git", "GitHub Actions"]
     },
-    currentFocus: "Architecting Scalable Systems",
-    philosophy: "Clean, maintainable and efficient code."
+    currentFocus: "Architecting Scalable Microservices & Data-Driven Apps",
+    professionalPhilosophy: "Writing clean, maintainable, and efficient code."
 };
 ```
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
 ## 🛠️ Teknoloji & Geliştirme Ortamı
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,flask,cs,dotnet,postgres,mysql,sqlite,docker,git,js,html,css,bootstrap" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap"/>
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
 ## 🚀 Öne Çıkan Mimari Projeler
 
-### ⚙️ TeknoFix / CRM Sistemi
+🔗 TeknoFix
+https://github.com/ardairmk55/tamirat_randevu_sistemi
 
-Teknik servis operasyonlarını uçtan uca dijitalleştiren kurumsal altyapı
-Rol: Backend Developer
-Odak: Güvenlik, Veri Modelleme, Rol Bazlı Yetkilendirme
+🔗 Gelişim Kapsülü
+https://github.com/ardairmk55/GelisimKapsul
 
-🔗 https://github.com/ardairmk55/tamirat_randevu_sistemi
+🔗 MediRandevu
+https://github.com/ardairmk55/INTProg_RandevuTakipSistemi
 
-### 🚀 Gelişim Kapsülü
-
-Eğitim takibi ve dinamik içerik yönetimine sahip platform
-Rol: Full Stack Developer
-Odak: MVC, ORM, UX
-
-🔗 https://github.com/ardairmk55/GelisimKapsul
-
-### 💬 MediRandevu (Real-Time)
-
-Socket.IO tabanlı gerçek zamanlı randevu sistemi
-Rol: Backend Developer
-Odak: WebSocket, SQLAlchemy, Async yapı
-
-🔗 https://github.com/ardairmk55/INTProg_RandevuTakipSistemi
-
-### 🚌 G-M Turizm UI
-
-Modern rezervasyon arayüz tasarımı
-Rol: Frontend Developer
-
-🔗 https://github.com/ardairmk55/g-m-turizm
+🔗 G-M Turizm
+https://github.com/ardairmk55/g-m-turizm
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 📊 GitHub Analizi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ardairmk55&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ardairmk55&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardairmk55&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ardairmk55&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardairmk55&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ardairmk55&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ardairmk55&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-## 🐍 Aktivite Animasyonu
+## 🐍 Katkı Grafiği Animasyonu
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-## 📬 İletişim
 
 <div align="center">
 
 Kurumsal işbirlikleri ve staj projeleri için iletişime geçebilirsiniz.
 
 <a href="mailto:ardairmak5555@gmail.com">
-<img src="https://img.shields.io/badge/E-Posta_Gönder-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/E--Posta_Gönder-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
 </div>
