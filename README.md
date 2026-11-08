@@ -222,12 +222,6 @@ const ardaIrmak = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ardairmk55&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub İstatistikleri"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardairmk55&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="En Çok Kullandığım Programlama Dilleri"/>
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=ardairmk55&theme=tokyonight&hide_border=true" alt="GitHub Katkı Serisi"/>
 
 </div>
