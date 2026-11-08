@@ -240,40 +240,48 @@ const ardaIrmak = {
 
 ---
 
+---
+
 <h2 align="center">📬 İLETİŞİM</h2>
 
-<div align="center">
-
-### Yeni fikirler, iyi ekipler ve faydalı yazılımlar için buradayım.
-
-Bir proje, iş birliği veya yazılım geliştirme fırsatı hakkında konuşmak istersen bana ulaşabilirsin.
+<p align="center">
+  <strong>Bir fikrin mi var? Birlikte hayata geçirelim.</strong>
+  <br />
+  Yeni projeler, iş birlikleri ve yazılım geliştirme fırsatları hakkında konuşmaya açığım.
+</p>
 
 <br />
 
-<a href="mailto:ardairmak5555@gmail.com">
-  <img
-    src="https://img.shields.io/badge/E--posta-Bana%20yaz-14B8A6?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Arda Irmak'a e-posta gönder"
-  />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/arda-irmak-dev">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Bağlantı%20kur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="Arda Irmak ile LinkedIn'de bağlantı kur"
-  />
-</a>
-&nbsp;
-<a href="https://github.com/ardairmk55">
-  <img
-    src="https://img.shields.io/badge/GitHub-Projelerimi%20keşfet-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="Arda Irmak'ın GitHub projelerini incele"
-  />
-</a>
+<div align="center">
+
+<a href="mailto:ardairmak5555@gmail.com">✉️ <strong>E-posta gönder</strong></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/arda-irmak-dev">💼 <strong>LinkedIn’de bağlantı kur</strong></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/ardairmk55">💻 <strong>GitHub projelerimi incele</strong></a>
 
 <br /><br />
 
-<sub>Bir fikrin mi var? İlk adım bir mesaj kadar yakın.</sub>
+<table>
+  <tr>
+    <td align="center">
+      <strong>💡 Proje fikri</strong><br />
+      Bir fikri ürüne dönüştürmek üzerine konuşalım.
+    </td>
+    <td align="center">
+      <strong>🤝 İş birliği</strong><br />
+      Birlikte üretebileceğimiz çalışmaları değerlendirelim.
+    </td>
+    <td align="center">
+      <strong>🚀 Kariyer fırsatı</strong><br />
+      Yazılım geliştirme fırsatları için iletişime geçebilirsin.
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<sub>Mesajında kısaca kendinden ve konuşmak istediğin konudan bahsetmen yeterli.</sub>
 
 <br /><br />
 
@@ -286,5 +294,5 @@ Bir proje, iş birliği veya yazılım geliştirme fırsatı hakkında konuşmak
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,45:173A4A,100:14B8A6&height=140&section=footer"
   width="100%"
-  alt="Lacivertten turkuaza geçen dalgalı profil altlığı"
+  alt="Lacivert ve turkuaz dalgalı profil altlığı"
 />
