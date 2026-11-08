@@ -1,29 +1,53 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Merhaba,%20Ben%20Arda!%20👋&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Yazılım%20Geliştirici%20%7C%20Backend%20Geliştirme&descSize=18&descAlignY=55&descColor=00FFCC" width="100%" alt="Arda Irmak Profil Başlığı"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:203A43,100:2C5364&amp;height=220&amp;section=header&amp;text=Merhaba,%20Ben%20Arda!%20👋&amp;fontSize=48&amp;fontColor=FFFFFF&amp;fontAlignY=35&amp;desc=Yazılım%20Geliştirici%20%7C%20Backend%20Geliştirme&amp;descSize=18&amp;descAlignY=55&amp;descColor=00FFCC"
+  width="100%"
+  alt="Arda Irmak — Yazılım Geliştirici"
+/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FFCC&center=true&vCenter=true&width=650&height=60&lines=Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici+%F0%9F%92%BB;Bilgisayar+Programc%C4%B1l%C4%B1%C4%9F%C4%B1+Mezunu+%F0%9F%8E%93;Backend+Geli%C5%9Ftirme+%7C+REST+API;Python+%7C+Django+%7C+Flask+%7C+C%23;Fikirleri+Yaz%C4%B1l%C4%B1ma+D%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCyorum+%F0%9F%9A%80" alt="Hareketli Yazı Animasyonu"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=00FFCC&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=60&amp;lines=Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici+%F0%9F%92%BB;Bilgisayar+Programc%C4%B1l%C4%B1%C4%9F%C4%B1+Mezunu+%F0%9F%8E%93;Backend+Geli%C5%9Ftirme+%7C+REST+API;Python+%7C+Django+%7C+Flask+%7C+C%23;Fikirleri+Yaz%C4%B1l%C4%B1ma+D%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCyorum+%F0%9F%9A%80"
+    alt="Yazılım geliştirme alanlarını gösteren yazı animasyonu"
+  />
 </a>
 
-<br/>
+<br /><br />
 
-<p>
 <a href="https://github.com/ardairmk55">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"
+    alt="GitHub profilim"
+  />
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/arda-irmak-919879317">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
+    alt="LinkedIn profilim"
+  />
 </a>
+&nbsp;
 <a href="mailto:ardairmak5555@gmail.com">
-<img src="https://img.shields.io/badge/E--Posta-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta"/>
+  <img
+    src="https://img.shields.io/badge/E--Posta-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"
+    alt="E-posta ile iletişim"
+  />
 </a>
-</p>
 
-<img src="https://komarev.com/ghpvc/?username=ardairmk55&label=PROF%C4%B0L%20Z%C4%B0YARETLER%C4%B0&color=0e75b6&style=flat-square" alt="Profil Ziyaretleri"/>
+<br /><br />
+
+<img
+  src="https://komarev.com/ghpvc/?username=ardairmk55&amp;label=PROF%C4%B0L%20Z%C4%B0YARETLER%C4%B0&amp;color=0e75b6&amp;style=flat-square"
+  alt="Profil ziyaret sayacı"
+/>
+
+<br /><br />
+
+<sub><strong>BACKEND</strong> &nbsp; · &nbsp; <strong>REST API</strong> &nbsp; · &nbsp; <strong>WEB GELİŞTİRME</strong></sub>
 
 </div>
-
 ---
 
 ## 👨‍💻 Hakkımda
