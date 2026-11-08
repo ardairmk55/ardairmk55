@@ -238,30 +238,53 @@ const ardaIrmak = {
 
 ---
 
-## 📫 Benimle İletişime Geçin
+---
 
-Yazılım geliştirme fırsatlarına, ortak projelere ve teknoloji alanında yeni insanlarla tanışmaya açığım.
-
-Bir proje hakkında konuşmak, fikir paylaşmak veya iş birliği yapmak istersen benimle iletişime geçebilirsin.
+<h2 align="center">📬 İLETİŞİM</h2>
 
 <div align="center">
 
-<a href="https://github.com/ardairmk55">
-<img src="https://img.shields.io/badge/GitHub'da%20Takip%20Et-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub'da Takip Et"/>
-</a>
+### Yeni fikirler, iyi ekipler ve faydalı yazılımlar için buradayım.
 
-<a href="https://www.linkedin.com/in/arda-irmak-919879317">
-<img src="https://img.shields.io/badge/LinkedIn'de%20Bağlantı%20Kur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn'de Bağlantı Kur"/>
-</a>
+Bir proje, iş birliği veya yazılım geliştirme fırsatı hakkında konuşmak istersen bana ulaşabilirsin.
+
+<br />
 
 <a href="mailto:ardairmak5555@gmail.com">
-<img src="https://img.shields.io/badge/Bana%20Ulaş-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta Gönder"/>
+  <img
+    src="https://img.shields.io/badge/E--posta-Bana%20yaz-14B8A6?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Arda Irmak'a e-posta gönder"
+  />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/arda-irmak-dev">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Bağlantı%20kur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="Arda Irmak ile LinkedIn'de bağlantı kur"
+  />
+</a>
+&nbsp;
+<a href="https://github.com/ardairmk55">
+  <img
+    src="https://img.shields.io/badge/GitHub-Projelerimi%20keşfet-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="Arda Irmak'ın GitHub projelerini incele"
+  />
 </a>
 
-<br/><br/>
+<br /><br />
 
-### 💡 *Üret. Öğren. Geliştir. Tekrarla.*
+<sub>Bir fikrin mi var? İlk adım bir mesaj kadar yakın.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" alt="Profil Alt Başlığı"/>
+<br /><br />
+
+<strong>✦ Üret&nbsp; · &nbsp;Öğren&nbsp; · &nbsp;Geliştir&nbsp; · &nbsp;Paylaş ✦</strong>
 
 </div>
+
+<br />
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,45:173A4A,100:14B8A6&height=140&section=footer"
+  width="100%"
+  alt="Lacivertten turkuaza geçen dalgalı profil altlığı"
+/>
