@@ -137,111 +137,81 @@ const ardaIrmak = {
 ## 🚀 Öne Çıkan Projelerim
 
 <p align="center">
-  <em>Seçili çalışmalar · Web · Masaüstü · NLP · Computer Vision</em>
+  <sub>WEB · MASAÜSTÜ · NLP · COMPUTER VISION</sub>
 </p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-
-### 🎨 Colorvia
-**Renk Paleti Stüdyosu · Web / PWA**
-
-Renk uyumlarına göre beş renkli paletler oluşturup düzenlemeye yarayan, çevrimdışı çalışabilen bir web uygulaması. Renk değerlerini görüntüleyebilir, paletleri tarayıcıdaki kitaplığa kaydedebilir ve JSON olarak yedekleyebilirsin.
-
-**Öne çıkanlar**
-- HEX, RGB ve HSL renk değerleri
-- Renk uyumu seçenekleri ve kontrast önerileri
-- Yerel palet kitaplığı ve JSON yedekleme
-- Türkçe/İngilizce arayüz ve PWA desteği
-
-<p>
-  <img src="https://img.shields.io/badge/React-19-149ECA?style=flat-square&logo=react&logoColor=white" alt="React 19" />
-  <img src="https://img.shields.io/badge/TypeScript-5.6-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript 5.6" />
-  <img src="https://img.shields.io/badge/Vite-6-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite 6" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS 4" />
-</p>
-
-<p><a href="https://github.com/ardairmk55/Colorvia"><strong>Depoyu incele →</strong></a></p>
-
-</td>
-<td width="50%" valign="top">
-
-### 📱 OmniQR Studio Professional
-**Masaüstü QR Kod Tasarım Stüdyosu**
-
-URL/metin, vCard ve e-posta gibi içerikler için QR kod oluşturur. QR görünümünü özelleştirebilir, logo ekleyebilir ve değişiklikleri canlı önizlemede görebilirsin.
-
-**Öne çıkanlar**
-- Kare, yuvarlak ve noktalı modül biçimleri
-- Renk ve merkez logo ayarları
-- L, M, Q ve H hata düzeltme seviyeleri
-- Canlı render önizlemesi
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3" />
-  <img src="https://img.shields.io/badge/CustomTkinter-Desktop-2B2B2B?style=flat-square" alt="CustomTkinter" />
-  <img src="https://img.shields.io/badge/Pillow-Image%20Processing-765C3D?style=flat-square" alt="Pillow" />
-  <img src="https://img.shields.io/badge/qrcode-QR%20Generation-14A44D?style=flat-square" alt="qrcode" />
-</p>
-
-<p><a href="https://github.com/ardairmk55/omniqr-studio"><strong>Depoyu incele →</strong></a></p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🎵 Şarkı Sözü NLP Analizi
-**Türkçe Şarkı Sözlerinde Word2Vec Karşılaştırması**
-
-Türkçe şarkı sözlerini ön işleme adımlarından geçirerek farklı Word2Vec yapılandırmalarını karşılaştıran bir NLP çalışması. Model çıktıları benzerlik ölçümleri ve insan değerlendirmesiyle incelenir.
-
-**Öne çıkanlar**
-- CBOW ve Skip-Gram model karşılaştırması
-- Cosine Similarity ile en benzer metinlerin analizi
-- İnsan değerlendirmesi ve Jaccard benzerliği
-- Notebook, veri dosyaları ve heatmap çıktısı
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
-  <img src="https://img.shields.io/badge/Gensim-Word2Vec-4B8BBE?style=flat-square" alt="Gensim Word2Vec" />
-  <img src="https://img.shields.io/badge/scikit--learn-Analysis-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-</p>
-
-<p>
-  <a href="https://github.com/ardairmk55/Sarki-Sozu-NLP-Analizi"><strong>Depoyu incele →</strong></a>
-  ·
-  <a href="https://drive.google.com/file/d/1gU24E55R7jrR1sEtHdDvgZmkIVtSklaB/view?usp=sharing">Eğitilmiş modeller</a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### 🖐️ Air Canvas
-**El Hareketleriyle Sanal Çizim**
-
-Web kamerası ve el takibiyle, ekrana dokunmadan çizim yapmaya yönelik bilgisayarlı görü uygulaması. El hareketleriyle çizim ve arayüz kontrollerini kullanabilirsin.
-
-**Öne çıkanlar**
-- Güvenli menü bölgeleri ve hitbox destekli seçim
-- Başparmak ve işaret parmağı mesafesine göre fırça kalınlığı
-- Katmanlı arayüz ve canvas
-- Dikdörtgen/çember şekil önizlemesi
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3.10+" />
-  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/MediaPipe-Hand%20Tracking-4285F4?style=flat-square&logo=google&logoColor=white" alt="MediaPipe" />
-  <img src="https://img.shields.io/badge/NumPy-Array%20Processing-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-</p>
-
-<p><a href="https://github.com/ardairmk55/air_canvas"><strong>Depoyu incele →</strong></a></p>
-
-</td>
-</tr>
+      <h3>🎨 Colorvia</h3>
+      <p><strong>Renk Paleti Stüdyosu · Web / PWA</strong></p>
+      <p>Renk uyumlarından paletler oluşturup düzenlemeye yarayan çevrimdışı destekli web uygulaması. Paletleri yerel kitaplıkta saklar; renk değerlerini, kontrast önerilerini ve JSON yedeklemeyi destekler.</p>
+      <p><strong>Öne çıkanlar</strong></p>
+      <ul>
+        <li>Beş renkli palet üretimi ve renk uyumu seçenekleri</li>
+        <li>HEX, RGB, HSL ve kontrast bilgileri</li>
+        <li>Yerel kitaplık, arama ve JSON yedekleme</li>
+        <li>Türkçe/İngilizce arayüz ve PWA</li>
+      </ul>
+      <p><strong>Teknolojiler</strong><br>
+        <code>React 19</code> <code>TypeScript 5.6</code> <code>Vite 6</code> <code>Tailwind CSS 4</code>
+      </p>
+      <p><a href="https://github.com/ardairmk55/Colorvia"><strong>Projeyi incele →</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 OmniQR Studio Professional</h3>
+      <p><strong>Masaüstü QR Kod Tasarım Stüdyosu</strong></p>
+      <p>URL/metin, vCard ve e-posta gibi içerikler için QR kod üretir. QR görünümünü özelleştirebilir, merkezine logo ekleyebilir ve değişiklikleri canlı önizleyebilirsin.</p>
+      <p><strong>Öne çıkanlar</strong></p>
+      <ul>
+        <li>Kare, yuvarlak ve noktalı modül biçimleri</li>
+        <li>Renk, logo ve hata düzeltme ayarları</li>
+        <li>L, M, Q ve H hata düzeltme seviyeleri</li>
+        <li>Canlı QR önizlemesi</li>
+      </ul>
+      <p><strong>Teknolojiler</strong><br>
+        <code>Python</code> <code>CustomTkinter</code> <code>Pillow</code> <code>qrcode</code>
+      </p>
+      <p><a href="https://github.com/ardairmk55/omniqr-studio"><strong>Projeyi incele →</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎵 Şarkı Sözü NLP Analizi</h3>
+      <p><strong>Türkçe Şarkı Sözlerinde Word2Vec Karşılaştırması</strong></p>
+      <p>Türkçe şarkı sözleri üzerinde metin ön işleme ve Word2Vec model karşılaştırması yapan NLP çalışması. Model sonuçları benzerlik ölçümleri ve insan değerlendirmesiyle incelenir.</p>
+      <p><strong>Öne çıkanlar</strong></p>
+      <ul>
+        <li>CBOW ve Skip-Gram modelleri</li>
+        <li>Cosine Similarity ile en benzer metinleri bulma</li>
+        <li>İnsan değerlendirmesi ve Jaccard analizi</li>
+        <li>Notebook, veri setleri ve heatmap çıktısı</li>
+      </ul>
+      <p><strong>Teknolojiler</strong><br>
+        <code>Python</code> <code>Jupyter</code> <code>Gensim</code> <code>Pandas</code> <code>scikit-learn</code>
+      </p>
+      <p>
+        <a href="https://github.com/ardairmk55/Sarki-Sozu-NLP-Analizi"><strong>Projeyi incele →</strong></a>
+        · <a href="https://drive.google.com/file/d/1gU24E55R7jrR1sEtHdDvgZmkIVtSklaB/view?usp=sharing">Modeller</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖐️ Air Canvas</h3>
+      <p><strong>El Hareketleriyle Sanal Çizim</strong></p>
+      <p>Web kamerası ve el takibiyle ekrana dokunmadan çizim yapmaya yönelik bilgisayarlı görü uygulaması.</p>
+      <p><strong>Öne çıkanlar</strong></p>
+      <ul>
+        <li>Güvenli menü alanları ve hitbox destekli seçim</li>
+        <li>Parmak mesafesine göre dinamik fırça kalınlığı</li>
+        <li>Katmanlı arayüz ve canvas</li>
+        <li>Dikdörtgen/çember şekil önizlemesi</li>
+      </ul>
+      <p><strong>Teknolojiler</strong><br>
+        <code>Python 3.10/3.11</code> <code>OpenCV</code> <code>MediaPipe</code> <code>NumPy</code>
+      </p>
+      <p><a href="https://github.com/ardairmk55/air_canvas"><strong>Projeyi incele →</strong></a></p>
+    </td>
+  </tr>
 </table>
 
 <p align="center">
