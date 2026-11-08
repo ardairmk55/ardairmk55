@@ -45,39 +45,39 @@ Web uygulamaları geliştirmeyi, backend sistemleri tasarlamayı, ilişkisel ver
 - 🎯 **Hedefim:** Güvenilir, sürdürülebilir ve kullanışlı yazılım çözümleri geliştirmek
 - 📍 **Konum:** Türkiye
 
-<br/>
+<div align="center">
 
-```javascript
-const ardaIrmak = {
-    ad: "Arda Irmak",
-    unvan: "Yazılım Geliştirici",
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/ARDA%20IRMAK-0F172A?style=for-the-badge" alt="Arda Irmak" />
+      <br />
+      <strong>Yazılım Geliştirici</strong>
+      <br />
+      Gümüşhane Üniversitesi · Bilgisayar Programcılığı Mezunu
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>⌘ ODAK ALANLARI</strong>
+      <br /><br />
+      Backend&nbsp; · &nbsp;REST API&nbsp; · &nbsp;Web Uygulamaları
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>⚡ TEKNOLOJİLER</strong>
+      <br /><br />
+      <code>Python</code> <code>C#</code> <code>Django</code>
+      <code>Flask</code> <code>PostgreSQL</code> <code>Docker</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><em>“Temiz kod. Faydalı işler. Sürekli gelişim.”</em></td>
+  </tr>
+</table>
 
-    egitim: {
-        universite: "Gümüşhane Üniversitesi",
-        bolum: "Bilgisayar Programcılığı",
-        durum: "Mezun"
-    },
-
-    ilgiAlanlari: [
-        "Backend Geliştirme",
-        "RESTful API Tasarımı",
-        "Veritabanı Tasarımı",
-        "Web Uygulamaları",
-        "Yazılım Mimarisi"
-    ],
-
-    teknolojiler: {
-        diller: ["Python", "C#", "JavaScript"],
-        backend: ["Django", "Flask", ".NET"],
-        frontend: ["HTML5", "CSS3", "Bootstrap"],
-        veritabanlari: ["PostgreSQL", "MySQL", "SQLite"],
-        araclar: ["Git", "GitHub", "Docker"]
-    },
-
-    felsefem: "Temiz kod yaz. Faydalı işler üret. Öğrenmeye devam et."
-};
-```
-
+</div>
 ---
 
 ## 🛠️ Teknoloji ve Geliştirme Araçlarım
@@ -235,10 +235,6 @@ const ardaIrmak = {
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Katkı Grafiği Animasyonu" width="100%"/>
 
 </div>
-
----
-
----
 
 ---
 
