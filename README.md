@@ -43,13 +43,6 @@
   alt="Profil ziyaret sayacı"
 />
 
-<br /><br />
-
-<sub><strong>BACKEND</strong> &nbsp; · &nbsp; <strong>REST API</strong> &nbsp; · &nbsp; <strong>WEB GELİŞTİRME</strong></sub>
-
-</div>
----
-
 ## 👨‍💻 Hakkımda
 
 Merhaba! Ben **Arda Irmak**. Gümüşhane Üniversitesi Bilgisayar Programcılığı bölümünden mezun olmuş bir yazılım geliştiriciyim.
