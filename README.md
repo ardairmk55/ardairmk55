@@ -1,285 +1,263 @@
-
-<!-- =========================================================
-     ARDA IRMAK | GITHUB PROFILE
-     Personal Engineering Portfolio
-     ========================================================= -->
-
 <div align="center">
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,45:151B35,100:312E81&height=220&section=header&text=ARDA%20IRMAK&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20BACKEND%20ENGINEERING&descSize=15&descAlignY=58&descColor=60A5FA"
-    width="100%"
-    alt="Arda Irmak"
-  />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Merhaba,%20Ben%20Arda!%20👋&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Yazılım%20Geliştirici%20%7C%20Backend%20Geliştirme&descSize=18&descAlignY=55&descColor=00FFCC" width="100%" alt="Arda Irmak Profil Başlığı"/>
 
-  <h3>Software Developer · Backend Engineering · Web Technologies</h3>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FFCC&center=true&vCenter=true&width=650&height=60&lines=Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici+%F0%9F%92%BB;Bilgisayar+Programc%C4%B1l%C4%B1%C4%9F%C4%B1+Mezunu+%F0%9F%8E%93;Backend+Geli%C5%9Ftirme+%7C+REST+API;Python+%7C+Django+%7C+Flask+%7C+C%23;Fikirleri+Yaz%C4%B1l%C4%B1ma+D%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCyorum+%F0%9F%9A%80" alt="Hareketli Yazı Animasyonu"/>
+</a>
 
-  <p>
-    <a href="https://github.com/ardairmk55">
-      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="https://www.linkedin.com/in/arda-irmak-919879317">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:ardairmak5555@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </p>
+<br/>
 
-  <img src="https://komarev.com/ghpvc/?username=ardairmk55&label=PROFILE%20VIEWS&color=6366F1&style=flat-square" alt="Profile Views"/>
+<p>
+<a href="https://github.com/ardairmk55">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/arda-irmak-919879317">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:ardairmak5555@gmail.com">
+<img src="https://img.shields.io/badge/E--Posta-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta"/>
+</a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=ardairmk55&label=PROF%C4%B0L%20Z%C4%B0YARETLER%C4%B0&color=0e75b6&style=flat-square" alt="Profil Ziyaretleri"/>
 
 </div>
 
 ---
 
-## Hakkımda
+## 👨‍💻 Hakkımda
 
-Gümüşhane Üniversitesi **Bilgisayar Programcılığı** mezunu bir yazılım geliştiriciyim. Backend engineering, web application development ve database-driven software solutions alanlarında çalışıyorum.
+Merhaba! Ben **Arda Irmak**. Gümüşhane Üniversitesi Bilgisayar Programcılığı bölümünden mezun olmuş bir yazılım geliştiriciyim.
 
-Yazılım geliştirme yaklaşımım; güvenilir sistemler oluşturmak, uygulama mantığını doğru modellemek ve sürdürülebilir kod yapıları geliştirmek üzerine kurulu.
+Web uygulamaları geliştirmeyi, backend sistemleri tasarlamayı, ilişkisel veritabanlarıyla çalışmayı ve fikirleri işlevsel yazılım çözümlerine dönüştürmeyi seviyorum.
 
-**DenizBank bünyesinde edindiğim kurumsal deneyim**, profesyonel çalışma disiplinini, operasyonel süreçlerin önemini ve sorumluluk bilincini yakından tanımama katkı sağladı.
+Özellikle backend geliştirme, RESTful API tasarımı, veritabanı yönetimi ve sürdürülebilir web uygulamaları geliştirme alanlarına ilgi duyuyorum. Temiz kod yazmaya, yazılım kalitesini artırmaya ve yeni teknolojiler öğrenerek kendimi geliştirmeye önem veriyorum.
 
-Teknik çalışmalarımda özellikle Python ekosistemi, C#/.NET ve modern web teknolojilerine odaklanıyorum. Farklı ihtiyaçlara yönelik uygulamalar geliştirerek backend, veri yönetimi ve kullanıcı etkileşimi konularındaki yetkinliğimi ilerletiyorum.
+**DenizBank bünyesinde edindiğim kurumsal iş deneyimi**, profesyonel çalışma ortamını, sorumluluk bilincini ve iş disiplinini daha yakından tanımama katkı sağladı.
 
-**Odak Alanlarım**
+- 🎓 **Eğitim:** Gümüşhane Üniversitesi — Bilgisayar Programcılığı Mezunu
+- 💻 **Odak Alanım:** Backend Geliştirme ve Web Uygulamaları
+- 🐍 **Programlama Dilleri ve Teknolojiler:** Python, Django, Flask, C#
+- 🗄️ **Veritabanları:** PostgreSQL, MySQL, SQLite
+- 🔧 **Geliştirme Araçları:** Git, GitHub, Docker
+- 🚀 **Gelişim Alanlarım:** Ölçeklenebilir backend sistemleri, API mimarileri ve yazılım tasarımı
+- 🎯 **Hedefim:** Güvenilir, sürdürülebilir ve kullanışlı yazılım çözümleri geliştirmek
+- 📍 **Konum:** Türkiye
 
-- Backend Development & API Design
-- Database Modeling & Data Management
-- Web Application Architecture
-- Software Maintainability & Code Quality
-- Application Development & Integration
+<br/>
 
----
+```javascript
+const ardaIrmak = {
+    ad: "Arda Irmak",
+    unvan: "Yazılım Geliştirici",
 
-## Technical Competencies
+    egitim: {
+        universite: "Gümüşhane Üniversitesi",
+        bolum: "Bilgisayar Programcılığı",
+        durum: "Mezun"
+    },
 
-Teknoloji tercihlerimi geliştirme sürecindeki sorumluluk alanlarına göre sınıflandırıyorum.
+    ilgiAlanlari: [
+        "Backend Geliştirme",
+        "RESTful API Tasarımı",
+        "Veritabanı Tasarımı",
+        "Web Uygulamaları",
+        "Yazılım Mimarisi"
+    ],
 
-### Backend Architecture
+    teknolojiler: {
+        diller: ["Python", "C#", "JavaScript"],
+        backend: ["Django", "Flask", ".NET"],
+        frontend: ["HTML5", "CSS3", "Bootstrap"],
+        veritabanlari: ["PostgreSQL", "MySQL", "SQLite"],
+        araclar: ["Git", "GitHub", "Docker"]
+    },
 
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Flask-181818?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-</p>
-
-### Core Runtimes & Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-</p>
-
-### Data Persistence
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-</p>
-
-### Tooling & DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-</p>
+    felsefem: "Temiz kod yaz. Faydalı işler üret. Öğrenmeye devam et."
+};
+```
 
 ---
 
-## Selected Engineering Projects
+## 🛠️ Teknoloji ve Geliştirme Araçlarım
 
-### 01. TeknoFix
-
-**Teknik Servis ve Randevu Yönetim Sistemi**
-
-[![Repository](https://img.shields.io/badge/Source_Code-View_Repository-181717?style=flat-square&logo=github)](https://github.com/ardairmk55/tamirat_randevu_sistemi)
-
-Teknik servis operasyonlarının ve randevu süreçlerinin dijital ortamda yönetilmesi amacıyla geliştirilmiş web tabanlı uygulama.
-
-**Core Architecture & Purpose**
-
-Flask tabanlı backend yapısı ve PostgreSQL veri katmanı üzerine kurulu bir servis yönetim uygulaması. Temel amacı servis işlemlerini, randevu süreçlerini ve ilgili kullanıcı işlemlerini merkezi olarak yönetmek.
-
-**Engineering Challenges & Solutions**
-
-- Teknik servis iş akışlarının uygulama içerisinde modellenmesi.
-- Randevu süreçlerinin düzenli biçimde yönetilmesi.
-- PostgreSQL üzerinden kalıcı veri yönetimi.
-- Backend ve kullanıcı arayüzü arasındaki entegrasyon.
-
-**Key Technical Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
----
-
-### 02. Gelişim Kapsülü
-
-**Kişisel Gelişim ve Hedef Takip Platformu**
-
-[![Repository](https://img.shields.io/badge/Source_Code-View_Repository-181717?style=flat-square&logo=github)](https://github.com/ardairmk55/GelisimKapsul)
-
-Kullanıcıların kişisel hedeflerini, notlarını ve gelişim süreçlerini tek bir dijital ortamda organize edebilmesini amaçlayan web uygulaması.
-
-**Core Architecture & Purpose**
-
-Python ve Flask tabanlı web uygulaması. Kullanıcı etkileşimi ve kişisel verilerin yönetimi etrafında şekillenen bir uygulama yapısına sahiptir.
-
-**Engineering Challenges & Solutions**
-
-- Hedef belirleme ve takip süreçlerinin dijitalleştirilmesi.
-- Notların düzenli biçimde yönetilmesi.
-- Frontend ve backend bileşenlerinin birlikte çalışması.
-- Kullanılabilir ve anlaşılır bir arayüz oluşturulması.
-
-**Key Technical Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
----
-
-### 03. MediRandevu
-
-**Hastane Randevu ve Takip Sistemi**
-
-[![Repository](https://img.shields.io/badge/Source_Code-View_Repository-181717?style=flat-square&logo=github)](https://github.com/ardairmk55/INTProg_RandevuTakipSistemi)
-
-Doktor, hasta ve tekniker gibi farklı kullanıcı gruplarının randevu ve iletişim süreçlerini yönetmek amacıyla geliştirilmiş uygulama.
-
-**Core Architecture & Purpose**
-
-Flask tabanlı backend, SQLAlchemy veri erişim katmanı ve Socket.IO gerçek zamanlı iletişim bileşenlerini bir araya getiren web uygulaması.
-
-**Engineering Challenges & Solutions**
-
-- Farklı kullanıcı rollerinin ihtiyaçlarına yönelik iş akışları.
-- Randevu süreçlerinin dijital ortamda yönetilmesi.
-- SQLAlchemy ile veritabanı işlemlerinin yürütülmesi.
-- Socket.IO ile gerçek zamanlı iletişim altyapısının kullanılması.
-
-**User Roles**
-
-- Doktor
-- Hasta
-- Tekniker
-
-**Key Technical Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
-
----
-
-### 04. G-M Turizm
-
-**Kurumsal Web Platformu**
-
-[![Repository](https://img.shields.io/badge/Source_Code-View_Repository-181717?style=flat-square&logo=github)](https://github.com/ardairmk55/g-m-turizm)
-
-Kurumsal bilgilerin dijital ortamda modern, erişilebilir ve farklı ekran boyutlarına uyumlu biçimde sunulması amacıyla geliştirilmiş web projesi.
-
-**Core Architecture & Purpose**
-
-HTML, CSS ve JavaScript kullanılarak geliştirilen frontend odaklı kurumsal web platformu.
-
-**Engineering Challenges & Solutions**
-
-- Kurumsal içeriğin anlaşılır biçimde yapılandırılması.
-- Farklı ekran boyutlarına uyumlu arayüz geliştirilmesi.
-- Kullanıcı deneyimini destekleyen görsel düzenin oluşturulması.
-- Web teknolojileriyle dinamik kullanıcı etkileşimlerinin sağlanması.
-
-**Key Technical Stack**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
----
-
-## GitHub Activity
+### 💻 Programlama Dilleri
 
 <div align="center">
 
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=ardairmk55&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
-    alt="GitHub Statistics"
-  />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardairmk55&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Most Used Languages"
-  />
+</div>
 
-  <br/><br/>
+### ⚙️ Backend Geliştirme
 
-  <img
-    width="70%"
-    src="https://streak-stats.demolab.com?user=ardairmk55&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
+<div align="center">
+
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+
+</div>
+
+### 🎨 Frontend Geliştirme
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+
+</div>
+
+### 🗄️ Veritabanları
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+
+</div>
+
+### 🔧 Geliştirme Araçları
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 
 </div>
 
 ---
 
-## Contribution Graph
+## 🚀 Öne Çıkan Projelerim
+
+### 🔧 1. TeknoFix — Teknik Servis ve Randevu Yönetim Sistemi
+
+Teknik servislerin hizmet süreçlerini, randevularını ve kullanıcı işlemlerini düzenlemek amacıyla geliştirilmiş web tabanlı bir yönetim uygulaması.
+
+**Kullanılan Teknolojiler:**
+
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+
+**Projenin Öne Çıkan Alanları:**
+- Teknik servis işlemlerinin yönetimi
+- Randevu süreçlerinin düzenlenmesi
+- Kullanıcı işlemleri
+- Veritabanı entegrasyonu
+
+🔗 **Proje Deposu:** [TeknoFix — GitHub](https://github.com/ardairmk55/tamirat_randevu_sistemi)
+
+---
+
+### 📈 2. Gelişim Kapsülü — Kişisel Gelişim ve Takip Platformu
+
+Kullanıcıların hedeflerini düzenlemelerine, notlarını saklamalarına ve kişisel gelişim süreçlerini takip etmelerine yardımcı olmak amacıyla geliştirilmiş bir web uygulaması.
+
+**Kullanılan Teknolojiler:**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+
+**Projenin Öne Çıkan Alanları:**
+- Hedef belirleme ve takip
+- Not yönetimi
+- Kullanıcı arayüzü geliştirme
+- Web uygulaması geliştirme
+
+🔗 **Proje Deposu:** [Gelişim Kapsülü — GitHub](https://github.com/ardairmk55/GelisimKapsul)
+
+---
+
+### 🏥 3. MediRandevu — Hastane Randevu Sistemi
+
+Doktor, hasta ve tekniker gibi farklı kullanıcı rollerini bir araya getiren; randevu süreçlerini ve iletişimi yönetmek amacıyla geliştirilmiş bir uygulama.
+
+**Kullanılan Teknolojiler:**
+
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/> <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.IO"/>
+
+**Projenin Öne Çıkan Alanları:**
+- Randevu süreçlerinin yönetimi
+- Farklı kullanıcı rollerine yönelik arayüzler
+- Veritabanı işlemleri
+- Gerçek zamanlı iletişim
+
+🔗 **Proje Deposu:** [MediRandevu — GitHub](https://github.com/ardairmk55/INTProg_RandevuTakipSistemi)
+
+---
+
+### ✈️ 4. G-M Turizm — Kurumsal Web Sitesi
+
+Kurumsal bilgilerin modern, duyarlı ve kullanıcı dostu bir arayüzle sunulması amacıyla geliştirilmiş bir web sitesi projesi.
+
+**Kullanılan Teknolojiler:**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+
+**Projenin Öne Çıkan Alanları:**
+- Duyarlı web tasarımı
+- Modern kullanıcı arayüzü
+- Kurumsal içerik sunumu
+- Web geliştirme
+
+🔗 **Proje Deposu:** [G-M Turizm — GitHub](https://github.com/ardairmk55/g-m-turizm)
+
+---
+
+## 📊 GitHub İstatistiklerim
 
 <div align="center">
 
-  <img
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-    width="100%"
-    alt="GitHub Contribution Snake"
-  />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ardairmk55&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub İstatistikleri"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardairmk55&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="En Çok Kullandığım Programlama Dilleri"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=ardairmk55&theme=tokyonight&hide_border=true" alt="GitHub Katkı Serisi"/>
 
 </div>
 
 ---
 
-## Contact
-
-Profesyonel fırsatlar, teknik iş birlikleri ve yazılım projeleri hakkında iletişim kurabilirsiniz.
+## 🐍 GitHub Katkı Grafiğim
 
 <div align="center">
 
-  <a href="https://github.com/ardairmk55">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/arda-irmak-919879317">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <a href="mailto:ardairmak5555@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-
-  <br/><br/>
-
-  <sub>Arda Irmak · Software Developer · Türkiye</sub>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Katkı Grafiği Animasyonu" width="100%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,45:151B35,100:312E81&height=120&section=footer" width="100%" alt="Footer"/>
+---
 
-<!-- =========================================================
-     END OF PROFILE README
-     ========================================================= -->
+## 📫 Benimle İletişime Geçin
+
+Yazılım geliştirme fırsatlarına, ortak projelere ve teknoloji alanında yeni insanlarla tanışmaya açığım.
+
+Bir proje hakkında konuşmak, fikir paylaşmak veya iş birliği yapmak istersen benimle iletişime geçebilirsin.
+
+<div align="center">
+
+<a href="https://github.com/ardairmk55">
+<img src="https://img.shields.io/badge/GitHub'da%20Takip%20Et-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub'da Takip Et"/>
+</a>
+
+<a href="https://www.linkedin.com/in/arda-irmak-919879317">
+<img src="https://img.shields.io/badge/LinkedIn'de%20Bağlantı%20Kur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn'de Bağlantı Kur"/>
+</a>
+
+<a href="mailto:ardairmak5555@gmail.com">
+<img src="https://img.shields.io/badge/Bana%20Ulaş-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta Gönder"/>
+</a>
+
+<br/><br/>
+
+### 💡 *Üret. Öğren. Geliştir. Tekrarla.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" alt="Profil Alt Başlığı"/>
+
+</div>
