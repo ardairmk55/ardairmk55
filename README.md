@@ -271,7 +271,7 @@ Web uygulamaları geliştirmeyi, backend sistemleri tasarlamayı, ilişkisel ver
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/arda-irmak-dev">💼 <strong>LinkedIn’de bağlantı kur</strong></a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/ardairmk55">💻 <strong>GitHub projelerimi incele</strong></a>
+<a href="https://github.com/ardairmk55?tab=repositories">💻 <strong>GitHub projelerimi incele</strong></a>
 
 <br /><br />
 
